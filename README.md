@@ -1,5 +1,5 @@
 # Geometry-Dash-Remake
-Very simple remake of GEOMETRY DASH
+A remake of Geometry Dash built in Unity/C#, focusing on game feel, state management, and data persistence.
 
 ## Tech Used
 - Unity / C#
