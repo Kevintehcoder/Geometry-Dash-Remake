@@ -8,7 +8,6 @@ Very simple remake of GEOMETRY DASH
 
 ## What I learned
 - Cinemachine and camera tracking
-- Animations
-- Gameover Screen
+- Animations/UI
 - Keeping memory across scenes
-- Static usage
+- Statemachine
