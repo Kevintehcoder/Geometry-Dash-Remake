@@ -6,7 +6,7 @@ A remake of Geometry Dash built in Unity/C#, focusing on game feel, state manage
 - Physics-based jumping
 - Trigger inputs
 
-## What I learned
+## Systems implemented
 - Cinemachine and camera tracking
 - Animations/UI
 - Keeping memory across scenes
